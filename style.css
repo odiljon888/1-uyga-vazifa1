@@ -1,0 +1,18 @@
+body{
+    background-color: brown;
+}
+.tbody{
+    background-color: bisque;
+}
+.error{
+    color: white;
+    background-color: aqua;
+    text-align: center;
+}
+p{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+
